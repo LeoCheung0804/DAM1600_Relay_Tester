@@ -40,7 +40,6 @@ set(CMAKE_MAKEFILE_DEPENDS
   "/usr/share/cmake-3.10/Modules/FindDoxygen.cmake"
   "/usr/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake"
   "/usr/share/cmake-3.10/Modules/FindPackageMessage.cmake"
-  "/usr/share/cmake-3.10/Modules/FindPkgConfig.cmake"
   "/usr/share/cmake-3.10/Modules/FindPythonLibs.cmake"
   "/usr/share/cmake-3.10/Modules/FindThreads.cmake"
   "/usr/share/cmake-3.10/Modules/GNUInstallDirs.cmake"

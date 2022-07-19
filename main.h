@@ -1,7 +1,5 @@
 #include <iostream>
 #include <libserial/SerialPort.h>
-#include <cstdlib>
-#include <fstream>
 #include <stdio.h>
 #include <chrono>
 #include <thread>
