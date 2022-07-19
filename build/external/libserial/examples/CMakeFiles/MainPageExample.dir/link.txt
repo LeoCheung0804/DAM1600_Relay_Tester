@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/MainPageExample.dir/main_page_example.cpp.o  -o ../../../bin/MainPageExample ../../../lib/libserial.a -pthread 

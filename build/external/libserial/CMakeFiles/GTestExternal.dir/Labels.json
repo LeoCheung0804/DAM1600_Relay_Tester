@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/roborn/DAM1600_Relay_tester/build/external/libserial/CMakeFiles/GTestExternal"
+		},
+		{
+			"file" : "/home/roborn/DAM1600_Relay_tester/build/external/libserial/CMakeFiles/GTestExternal.rule"
+		},
+		{
+			"file" : "/home/roborn/DAM1600_Relay_tester/build/external/libserial/CMakeFiles/GTestExternal-complete.rule"
+		},
+		{
+			"file" : "/home/roborn/DAM1600_Relay_tester/build/external/libserial/gtest/src/GTestExternal-stamp/GTestExternal-install.rule"
+		},
+		{
+			"file" : "/home/roborn/DAM1600_Relay_tester/build/external/libserial/gtest/src/GTestExternal-stamp/GTestExternal-mkdir.rule"
+		},
+		{
+			"file" : "/home/roborn/DAM1600_Relay_tester/build/external/libserial/gtest/src/GTestExternal-stamp/GTestExternal-download.rule"
+		},
+		{
+			"file" : "/home/roborn/DAM1600_Relay_tester/build/external/libserial/gtest/src/GTestExternal-stamp/GTestExternal-update.rule"
+		},
+		{
+			"file" : "/home/roborn/DAM1600_Relay_tester/build/external/libserial/gtest/src/GTestExternal-stamp/GTestExternal-patch.rule"
+		},
+		{
+			"file" : "/home/roborn/DAM1600_Relay_tester/build/external/libserial/gtest/src/GTestExternal-stamp/GTestExternal-configure.rule"
+		},
+		{
+			"file" : "/home/roborn/DAM1600_Relay_tester/build/external/libserial/gtest/src/GTestExternal-stamp/GTestExternal-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"GTestExternal"
+		],
+		"name" : "GTestExternal"
+	}
+}

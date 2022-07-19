@@ -1,0 +1,92 @@
+[
+{
+  "directory": "/home/roborn/DAM1600_Relay_tester/build/external/libserial/examples",
+  "command": "/usr/bin/c++   -I/home/roborn/DAM1600_Relay_tester/build/external/libserial/gtest/src/GTestExternal/googletest/include -I/home/roborn/DAM1600_Relay_tester/external/libserial/src    -Wall -Wcast-align -Wchar-subscripts -Wdouble-promotion -Wextra -Wfatal-errors -Wformat -Wformat-security -Wlogical-op -Wno-format-extra-args -Wno-long-long -Wno-parentheses -Wno-psabi -Wno-variadic-macros -Woverlength-strings -Wpacked -Wpointer-arith -Wunused-local-typedefs -Wwrite-strings -fstrict-aliasing -fno-check-new -fno-common -fvisibility=default -pedantic -pthread -std=gnu++14 -o CMakeFiles/SerialStreamReadWriteExample.dir/serial_stream_read_write.cpp.o -c /home/roborn/DAM1600_Relay_tester/external/libserial/examples/serial_stream_read_write.cpp",
+  "file": "/home/roborn/DAM1600_Relay_tester/external/libserial/examples/serial_stream_read_write.cpp"
+},
+{
+  "directory": "/home/roborn/DAM1600_Relay_tester/build/external/libserial/examples",
+  "command": "/usr/bin/c++   -I/home/roborn/DAM1600_Relay_tester/build/external/libserial/gtest/src/GTestExternal/googletest/include -I/home/roborn/DAM1600_Relay_tester/external/libserial/src    -Wall -Wcast-align -Wchar-subscripts -Wdouble-promotion -Wextra -Wfatal-errors -Wformat -Wformat-security -Wlogical-op -Wno-format-extra-args -Wno-long-long -Wno-parentheses -Wno-psabi -Wno-variadic-macros -Woverlength-strings -Wpacked -Wpointer-arith -Wunused-local-typedefs -Wwrite-strings -fstrict-aliasing -fno-check-new -fno-common -fvisibility=default -pedantic -pthread -std=gnu++14 -o CMakeFiles/SerialPortReadExample.dir/serial_port_read.cpp.o -c /home/roborn/DAM1600_Relay_tester/external/libserial/examples/serial_port_read.cpp",
+  "file": "/home/roborn/DAM1600_Relay_tester/external/libserial/examples/serial_port_read.cpp"
+},
+{
+  "directory": "/home/roborn/DAM1600_Relay_tester/build/external/libserial/examples",
+  "command": "/usr/bin/c++   -I/home/roborn/DAM1600_Relay_tester/build/external/libserial/gtest/src/GTestExternal/googletest/include -I/home/roborn/DAM1600_Relay_tester/external/libserial/src    -Wall -Wcast-align -Wchar-subscripts -Wdouble-promotion -Wextra -Wfatal-errors -Wformat -Wformat-security -Wlogical-op -Wno-format-extra-args -Wno-long-long -Wno-parentheses -Wno-psabi -Wno-variadic-macros -Woverlength-strings -Wpacked -Wpointer-arith -Wunused-local-typedefs -Wwrite-strings -fstrict-aliasing -fno-check-new -fno-common -fvisibility=default -pedantic -pthread -std=gnu++14 -o CMakeFiles/MainPageExample.dir/main_page_example.cpp.o -c /home/roborn/DAM1600_Relay_tester/external/libserial/examples/main_page_example.cpp",
+  "file": "/home/roborn/DAM1600_Relay_tester/external/libserial/examples/main_page_example.cpp"
+},
+{
+  "directory": "/home/roborn/DAM1600_Relay_tester/build/external/libserial/examples",
+  "command": "/usr/bin/c++   -I/home/roborn/DAM1600_Relay_tester/build/external/libserial/gtest/src/GTestExternal/googletest/include -I/home/roborn/DAM1600_Relay_tester/external/libserial/src    -Wall -Wcast-align -Wchar-subscripts -Wdouble-promotion -Wextra -Wfatal-errors -Wformat -Wformat-security -Wlogical-op -Wno-format-extra-args -Wno-long-long -Wno-parentheses -Wno-psabi -Wno-variadic-macros -Woverlength-strings -Wpacked -Wpointer-arith -Wunused-local-typedefs -Wwrite-strings -fstrict-aliasing -fno-check-new -fno-common -fvisibility=default -pedantic -pthread -std=gnu++14 -o CMakeFiles/SerialPortReadWriteExample.dir/serial_port_read_write.cpp.o -c /home/roborn/DAM1600_Relay_tester/external/libserial/examples/serial_port_read_write.cpp",
+  "file": "/home/roborn/DAM1600_Relay_tester/external/libserial/examples/serial_port_read_write.cpp"
+},
+{
+  "directory": "/home/roborn/DAM1600_Relay_tester/build/external/libserial/examples",
+  "command": "/usr/bin/c++   -I/home/roborn/DAM1600_Relay_tester/build/external/libserial/gtest/src/GTestExternal/googletest/include -I/home/roborn/DAM1600_Relay_tester/external/libserial/src    -Wall -Wcast-align -Wchar-subscripts -Wdouble-promotion -Wextra -Wfatal-errors -Wformat -Wformat-security -Wlogical-op -Wno-format-extra-args -Wno-long-long -Wno-parentheses -Wno-psabi -Wno-variadic-macros -Woverlength-strings -Wpacked -Wpointer-arith -Wunused-local-typedefs -Wwrite-strings -fstrict-aliasing -fno-check-new -fno-common -fvisibility=default -pedantic -pthread -std=gnu++14 -o CMakeFiles/SerialPortWriteExample.dir/serial_port_write.cpp.o -c /home/roborn/DAM1600_Relay_tester/external/libserial/examples/serial_port_write.cpp",
+  "file": "/home/roborn/DAM1600_Relay_tester/external/libserial/examples/serial_port_write.cpp"
+},
+{
+  "directory": "/home/roborn/DAM1600_Relay_tester/build/external/libserial/examples",
+  "command": "/usr/bin/c++   -I/home/roborn/DAM1600_Relay_tester/build/external/libserial/gtest/src/GTestExternal/googletest/include -I/home/roborn/DAM1600_Relay_tester/external/libserial/src    -Wall -Wcast-align -Wchar-subscripts -Wdouble-promotion -Wextra -Wfatal-errors -Wformat -Wformat-security -Wlogical-op -Wno-format-extra-args -Wno-long-long -Wno-parentheses -Wno-psabi -Wno-variadic-macros -Woverlength-strings -Wpacked -Wpointer-arith -Wunused-local-typedefs -Wwrite-strings -fstrict-aliasing -fno-check-new -fno-common -fvisibility=default -pedantic -pthread -std=gnu++14 -o CMakeFiles/SerialStreamReadExample.dir/serial_stream_read.cpp.o -c /home/roborn/DAM1600_Relay_tester/external/libserial/examples/serial_stream_read.cpp",
+  "file": "/home/roborn/DAM1600_Relay_tester/external/libserial/examples/serial_stream_read.cpp"
+},
+{
+  "directory": "/home/roborn/DAM1600_Relay_tester/build/external/libserial/examples",
+  "command": "/usr/bin/c++   -I/home/roborn/DAM1600_Relay_tester/build/external/libserial/gtest/src/GTestExternal/googletest/include -I/home/roborn/DAM1600_Relay_tester/external/libserial/src    -Wall -Wcast-align -Wchar-subscripts -Wdouble-promotion -Wextra -Wfatal-errors -Wformat -Wformat-security -Wlogical-op -Wno-format-extra-args -Wno-long-long -Wno-parentheses -Wno-psabi -Wno-variadic-macros -Woverlength-strings -Wpacked -Wpointer-arith -Wunused-local-typedefs -Wwrite-strings -fstrict-aliasing -fno-check-new -fno-common -fvisibility=default -pedantic -pthread -std=gnu++14 -o CMakeFiles/SerialStreamWriteExample.dir/serial_stream_write.cpp.o -c /home/roborn/DAM1600_Relay_tester/external/libserial/examples/serial_stream_write.cpp",
+  "file": "/home/roborn/DAM1600_Relay_tester/external/libserial/examples/serial_stream_write.cpp"
+},
+{
+  "directory": "/home/roborn/DAM1600_Relay_tester/build/external/libserial/src",
+  "command": "/usr/bin/c++  -Dlibserial_shared_EXPORTS -I/home/roborn/DAM1600_Relay_tester/build/external/libserial/gtest/src/GTestExternal/googletest/include -I/home/roborn/DAM1600_Relay_tester/external/libserial/src  -fPIC   -Wall -Wcast-align -Wchar-subscripts -Wdouble-promotion -Wextra -Wfatal-errors -Wformat -Wformat-security -Wlogical-op -Wno-format-extra-args -Wno-long-long -Wno-parentheses -Wno-psabi -Wno-variadic-macros -Woverlength-strings -Wpacked -Wpointer-arith -Wunused-local-typedefs -Wwrite-strings -fstrict-aliasing -fno-check-new -fno-common -fvisibility=default -pedantic -pthread -std=gnu++14 -o CMakeFiles/libserial_shared.dir/SerialPort.cpp.o -c /home/roborn/DAM1600_Relay_tester/external/libserial/src/SerialPort.cpp",
+  "file": "/home/roborn/DAM1600_Relay_tester/external/libserial/src/SerialPort.cpp"
+},
+{
+  "directory": "/home/roborn/DAM1600_Relay_tester/build/external/libserial/src",
+  "command": "/usr/bin/c++  -Dlibserial_shared_EXPORTS -I/home/roborn/DAM1600_Relay_tester/build/external/libserial/gtest/src/GTestExternal/googletest/include -I/home/roborn/DAM1600_Relay_tester/external/libserial/src  -fPIC   -Wall -Wcast-align -Wchar-subscripts -Wdouble-promotion -Wextra -Wfatal-errors -Wformat -Wformat-security -Wlogical-op -Wno-format-extra-args -Wno-long-long -Wno-parentheses -Wno-psabi -Wno-variadic-macros -Woverlength-strings -Wpacked -Wpointer-arith -Wunused-local-typedefs -Wwrite-strings -fstrict-aliasing -fno-check-new -fno-common -fvisibility=default -pedantic -pthread -std=gnu++14 -o CMakeFiles/libserial_shared.dir/SerialStream.cpp.o -c /home/roborn/DAM1600_Relay_tester/external/libserial/src/SerialStream.cpp",
+  "file": "/home/roborn/DAM1600_Relay_tester/external/libserial/src/SerialStream.cpp"
+},
+{
+  "directory": "/home/roborn/DAM1600_Relay_tester/build/external/libserial/src",
+  "command": "/usr/bin/c++  -Dlibserial_shared_EXPORTS -I/home/roborn/DAM1600_Relay_tester/build/external/libserial/gtest/src/GTestExternal/googletest/include -I/home/roborn/DAM1600_Relay_tester/external/libserial/src  -fPIC   -Wall -Wcast-align -Wchar-subscripts -Wdouble-promotion -Wextra -Wfatal-errors -Wformat -Wformat-security -Wlogical-op -Wno-format-extra-args -Wno-long-long -Wno-parentheses -Wno-psabi -Wno-variadic-macros -Woverlength-strings -Wpacked -Wpointer-arith -Wunused-local-typedefs -Wwrite-strings -fstrict-aliasing -fno-check-new -fno-common -fvisibility=default -pedantic -pthread -std=gnu++14 -o CMakeFiles/libserial_shared.dir/SerialStreamBuf.cpp.o -c /home/roborn/DAM1600_Relay_tester/external/libserial/src/SerialStreamBuf.cpp",
+  "file": "/home/roborn/DAM1600_Relay_tester/external/libserial/src/SerialStreamBuf.cpp"
+},
+{
+  "directory": "/home/roborn/DAM1600_Relay_tester/build/external/libserial/src",
+  "command": "/usr/bin/c++   -I/home/roborn/DAM1600_Relay_tester/build/external/libserial/gtest/src/GTestExternal/googletest/include -I/home/roborn/DAM1600_Relay_tester/external/libserial/src    -Wall -Wcast-align -Wchar-subscripts -Wdouble-promotion -Wextra -Wfatal-errors -Wformat -Wformat-security -Wlogical-op -Wno-format-extra-args -Wno-long-long -Wno-parentheses -Wno-psabi -Wno-variadic-macros -Woverlength-strings -Wpacked -Wpointer-arith -Wunused-local-typedefs -Wwrite-strings -fstrict-aliasing -fno-check-new -fno-common -fvisibility=default -pedantic -pthread -std=gnu++14 -o CMakeFiles/libserial_static.dir/SerialPort.cpp.o -c /home/roborn/DAM1600_Relay_tester/external/libserial/src/SerialPort.cpp",
+  "file": "/home/roborn/DAM1600_Relay_tester/external/libserial/src/SerialPort.cpp"
+},
+{
+  "directory": "/home/roborn/DAM1600_Relay_tester/build/external/libserial/src",
+  "command": "/usr/bin/c++   -I/home/roborn/DAM1600_Relay_tester/build/external/libserial/gtest/src/GTestExternal/googletest/include -I/home/roborn/DAM1600_Relay_tester/external/libserial/src    -Wall -Wcast-align -Wchar-subscripts -Wdouble-promotion -Wextra -Wfatal-errors -Wformat -Wformat-security -Wlogical-op -Wno-format-extra-args -Wno-long-long -Wno-parentheses -Wno-psabi -Wno-variadic-macros -Woverlength-strings -Wpacked -Wpointer-arith -Wunused-local-typedefs -Wwrite-strings -fstrict-aliasing -fno-check-new -fno-common -fvisibility=default -pedantic -pthread -std=gnu++14 -o CMakeFiles/libserial_static.dir/SerialStream.cpp.o -c /home/roborn/DAM1600_Relay_tester/external/libserial/src/SerialStream.cpp",
+  "file": "/home/roborn/DAM1600_Relay_tester/external/libserial/src/SerialStream.cpp"
+},
+{
+  "directory": "/home/roborn/DAM1600_Relay_tester/build/external/libserial/src",
+  "command": "/usr/bin/c++   -I/home/roborn/DAM1600_Relay_tester/build/external/libserial/gtest/src/GTestExternal/googletest/include -I/home/roborn/DAM1600_Relay_tester/external/libserial/src    -Wall -Wcast-align -Wchar-subscripts -Wdouble-promotion -Wextra -Wfatal-errors -Wformat -Wformat-security -Wlogical-op -Wno-format-extra-args -Wno-long-long -Wno-parentheses -Wno-psabi -Wno-variadic-macros -Woverlength-strings -Wpacked -Wpointer-arith -Wunused-local-typedefs -Wwrite-strings -fstrict-aliasing -fno-check-new -fno-common -fvisibility=default -pedantic -pthread -std=gnu++14 -o CMakeFiles/libserial_static.dir/SerialStreamBuf.cpp.o -c /home/roborn/DAM1600_Relay_tester/external/libserial/src/SerialStreamBuf.cpp",
+  "file": "/home/roborn/DAM1600_Relay_tester/external/libserial/src/SerialStreamBuf.cpp"
+},
+{
+  "directory": "/home/roborn/DAM1600_Relay_tester/build/external/libserial/test",
+  "command": "/usr/bin/c++   -I/home/roborn/DAM1600_Relay_tester/build/external/libserial/gtest/src/GTestExternal/googletest/include -I/home/roborn/DAM1600_Relay_tester/external/libserial/src    -Wall -Wcast-align -Wchar-subscripts -Wdouble-promotion -Wextra -Wfatal-errors -Wformat -Wformat-security -Wlogical-op -Wno-format-extra-args -Wno-long-long -Wno-parentheses -Wno-psabi -Wno-variadic-macros -Woverlength-strings -Wpacked -Wpointer-arith -Wunused-local-typedefs -Wwrite-strings -fstrict-aliasing -fno-check-new -fno-common -fvisibility=default -pedantic -pthread -std=gnu++14 -o CMakeFiles/unit_tests.dir/unit_tests.cpp.o -c /home/roborn/DAM1600_Relay_tester/external/libserial/test/unit_tests.cpp",
+  "file": "/home/roborn/DAM1600_Relay_tester/external/libserial/test/unit_tests.cpp"
+},
+{
+  "directory": "/home/roborn/DAM1600_Relay_tester/build/external/libserial/test",
+  "command": "/usr/bin/c++   -I/home/roborn/DAM1600_Relay_tester/build/external/libserial/gtest/src/GTestExternal/googletest/include -I/home/roborn/DAM1600_Relay_tester/external/libserial/src    -Wall -Wcast-align -Wchar-subscripts -Wdouble-promotion -Wextra -Wfatal-errors -Wformat -Wformat-security -Wlogical-op -Wno-format-extra-args -Wno-long-long -Wno-parentheses -Wno-psabi -Wno-variadic-macros -Woverlength-strings -Wpacked -Wpointer-arith -Wunused-local-typedefs -Wwrite-strings -fstrict-aliasing -fno-check-new -fno-common -fvisibility=default -pedantic -pthread -std=gnu++14 -o CMakeFiles/UnitTests.dir/SerialPortUnitTests.cpp.o -c /home/roborn/DAM1600_Relay_tester/external/libserial/test/SerialPortUnitTests.cpp",
+  "file": "/home/roborn/DAM1600_Relay_tester/external/libserial/test/SerialPortUnitTests.cpp"
+},
+{
+  "directory": "/home/roborn/DAM1600_Relay_tester/build/external/libserial/test",
+  "command": "/usr/bin/c++   -I/home/roborn/DAM1600_Relay_tester/build/external/libserial/gtest/src/GTestExternal/googletest/include -I/home/roborn/DAM1600_Relay_tester/external/libserial/src    -Wall -Wcast-align -Wchar-subscripts -Wdouble-promotion -Wextra -Wfatal-errors -Wformat -Wformat-security -Wlogical-op -Wno-format-extra-args -Wno-long-long -Wno-parentheses -Wno-psabi -Wno-variadic-macros -Woverlength-strings -Wpacked -Wpointer-arith -Wunused-local-typedefs -Wwrite-strings -fstrict-aliasing -fno-check-new -fno-common -fvisibility=default -pedantic -pthread -std=gnu++14 -o CMakeFiles/UnitTests.dir/SerialStreamUnitTests.cpp.o -c /home/roborn/DAM1600_Relay_tester/external/libserial/test/SerialStreamUnitTests.cpp",
+  "file": "/home/roborn/DAM1600_Relay_tester/external/libserial/test/SerialStreamUnitTests.cpp"
+},
+{
+  "directory": "/home/roborn/DAM1600_Relay_tester/build/external/libserial/test",
+  "command": "/usr/bin/c++   -I/home/roborn/DAM1600_Relay_tester/build/external/libserial/gtest/src/GTestExternal/googletest/include -I/home/roborn/DAM1600_Relay_tester/external/libserial/src    -Wall -Wcast-align -Wchar-subscripts -Wdouble-promotion -Wextra -Wfatal-errors -Wformat -Wformat-security -Wlogical-op -Wno-format-extra-args -Wno-long-long -Wno-parentheses -Wno-psabi -Wno-variadic-macros -Woverlength-strings -Wpacked -Wpointer-arith -Wunused-local-typedefs -Wwrite-strings -fstrict-aliasing -fno-check-new -fno-common -fvisibility=default -pedantic -pthread -std=gnu++14 -o CMakeFiles/UnitTests.dir/MultiThreadUnitTests.cpp.o -c /home/roborn/DAM1600_Relay_tester/external/libserial/test/MultiThreadUnitTests.cpp",
+  "file": "/home/roborn/DAM1600_Relay_tester/external/libserial/test/MultiThreadUnitTests.cpp"
+},
+{
+  "directory": "/home/roborn/DAM1600_Relay_tester/build/external/libserial/test",
+  "command": "/usr/bin/c++   -I/home/roborn/DAM1600_Relay_tester/build/external/libserial/gtest/src/GTestExternal/googletest/include -I/home/roborn/DAM1600_Relay_tester/external/libserial/src    -Wall -Wcast-align -Wchar-subscripts -Wdouble-promotion -Wextra -Wfatal-errors -Wformat -Wformat-security -Wlogical-op -Wno-format-extra-args -Wno-long-long -Wno-parentheses -Wno-psabi -Wno-variadic-macros -Woverlength-strings -Wpacked -Wpointer-arith -Wunused-local-typedefs -Wwrite-strings -fstrict-aliasing -fno-check-new -fno-common -fvisibility=default -pedantic -pthread -std=gnu++14 -o CMakeFiles/UnitTests.dir/UnitTests.cpp.o -c /home/roborn/DAM1600_Relay_tester/external/libserial/test/UnitTests.cpp",
+  "file": "/home/roborn/DAM1600_Relay_tester/external/libserial/test/UnitTests.cpp"
+}
+]

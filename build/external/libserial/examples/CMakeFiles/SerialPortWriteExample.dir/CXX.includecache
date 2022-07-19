@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../external/libserial/src/libserial/SerialPort.h
+libserial/SerialPortConstants.h
+-
+ios
+-
+memory
+-
+
+../external/libserial/src/libserial/SerialPortConstants.h
+limits
+-
+stdexcept
+-
+string
+-
+termios.h
+-
+vector
+-
+
+/home/roborn/DAM1600_Relay_tester/external/libserial/examples/serial_port_write.cpp
+libserial/SerialPort.h
+-
+cstdlib
+-
+fstream
+-
+iostream
+-
+

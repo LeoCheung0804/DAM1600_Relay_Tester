@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/SerialPortReadExample.dir/serial_port_read.cpp.o  -o ../../../bin/SerialPortReadExample ../../../lib/libserial.a -pthread 

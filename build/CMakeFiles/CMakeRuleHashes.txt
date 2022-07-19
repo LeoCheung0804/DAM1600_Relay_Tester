@@ -1,0 +1,11 @@
+# Hashes of file build rules.
+28ff7a59d440edffebd346160663bd2d external/libserial/CMakeFiles/GTestExternal
+5861672f04a45db696364d48f92c69c7 external/libserial/CMakeFiles/GTestExternal-complete
+32fa2f5ec5963769ef6a1273b5d51d8e external/libserial/CMakeFiles/docs
+dfa7a22c5d4e252e265b3818700ac0e1 external/libserial/gtest/src/GTestExternal-stamp/GTestExternal-build
+990b84741676b40ca15a1dfbaf41d7b6 external/libserial/gtest/src/GTestExternal-stamp/GTestExternal-configure
+f0f77feb374f32dab1c6b8cbf5db8e2f external/libserial/gtest/src/GTestExternal-stamp/GTestExternal-download
+83a78c9e31d97f16ab181a4286abd293 external/libserial/gtest/src/GTestExternal-stamp/GTestExternal-install
+db9e6d08c3ac48ab4184f9dad101fe96 external/libserial/gtest/src/GTestExternal-stamp/GTestExternal-mkdir
+20cf04263e8a8552343521a4affb1359 external/libserial/gtest/src/GTestExternal-stamp/GTestExternal-patch
+dac51e2aae2eb1fd451c0c67ad675054 external/libserial/gtest/src/GTestExternal-stamp/GTestExternal-update

@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/unit_tests.dir/unit_tests.cpp.o  -o ../../../bin/unit_tests ../../../lib/libserial.a /usr/lib/aarch64-linux-gnu/libboost_unit_test_framework.so -pthread 

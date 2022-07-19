@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/tester.dir/main.cpp.o  -o tester -L/usr/local/lib -lserial -pthread 
