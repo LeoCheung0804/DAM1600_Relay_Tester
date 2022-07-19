@@ -1,0 +1,3 @@
+[submodule "external/libserial"]
+	path = external/libserial
+	url = https://github.com/crayzeewulf/libserial.git
