@@ -13,7 +13,7 @@ add_subdirectory(external/libserial)
 
 find_package(PkgConfig)
 
-pkg_check_modules(SERIAL libserial)
+#pkg_check_modules(SERIAL libserial)
 
 target_include_directories(${PROJECT_NAME} 
     PRIVATE ${SERIAL_INCLUDE_DIRS}
