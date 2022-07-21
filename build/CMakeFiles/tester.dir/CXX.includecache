@@ -6,6 +6,8 @@
 
 #IncludeRegexTransform: 
 
+/home/roborn/DAM1600_Relay_tester/CRC16.h
+
 /home/roborn/DAM1600_Relay_tester/main.cpp
 main.h
 /home/roborn/DAM1600_Relay_tester/main.h
@@ -15,12 +17,12 @@ iostream
 -
 libserial/SerialPort.h
 -
-stdio.h
--
 chrono
 -
 thread
 -
+CRC16.h
+/home/roborn/DAM1600_Relay_tester/CRC16.h
 
 /usr/local/include/libserial/SerialPort.h
 libserial/SerialPortConstants.h
