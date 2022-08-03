@@ -59,6 +59,8 @@
         "typeindex": "cpp",
         "forward_list": "cpp",
         "unordered_set": "cpp",
-        "cfenv": "cpp"
+        "cfenv": "cpp",
+        "csignal": "cpp",
+        "numeric": "cpp"
     }
 }

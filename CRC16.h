@@ -17,7 +17,7 @@ unsigned int CRC16_MODBUS(unsigned char *buf, int len)
             crc >>= 1;                    // Shift right and XOR 0xA001
             crc ^= 0xA001;
         }
-        else                            // Else LSB is not set
+        else                            // Else LSB is not set                   
             crc >>= 1;                    // Just shift right
     }
   }
@@ -25,8 +25,8 @@ unsigned int CRC16_MODBUS(unsigned char *buf, int len)
 }
 
 std::pair<uint8_t, uint8_t> crc16_to_crc8(uint16_t value)
-{
-    std::pair<uint8_t, uint8_t> result;
+{   
+    std::pair<uint8_t, uint8_t> result ;
     result.first = value & 0xFF;
     result.second = value >> 8;
     return result;

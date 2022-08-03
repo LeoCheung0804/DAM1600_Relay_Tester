@@ -8,6 +8,7 @@
 using namespace LibSerial ;
 using namespace std::chrono ;
 using namespace std::this_thread ;
+using ms = std::chrono::milliseconds ;
 
 SerialPort serial_port1 ;
 uint8_t x , y;

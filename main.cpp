@@ -16,8 +16,8 @@ int main()
         serial_port1.SetStopBits( StopBits::STOP_BITS_1 ) ;
 
         std::cout << "Config completed" << std::endl ;
-        //Delay for 500ms
-        sleep_for(std::chrono::milliseconds(500)) ;        
+        
+        sleep_for(ms(500)) ;  //Delay for 500ms      
     }
     catch(const LibSerial::OpenFailed)
     {
@@ -38,11 +38,11 @@ int main()
         DataBuffer all_ports_ON_crc = {relay_addr,0x0F,0x00,0x00,0x00,0x10,0x02,0xFF,0xFF,result_all_on.first,result_all_on.second} ;
         serial_port1.Write(all_ports_ON_crc); 
         //print written vector
-        std::cout << "relay_port all on; writen: " << std::endl ;
+        std::cout << "Relay_port all on; writen: " << std::endl ;
         for (auto& value : all_ports_ON_crc)
         {std::cout<< (int)value << " ";}
         std::cout << std::endl ;
-        sleep_for(std::chrono::milliseconds(300)) ;
+        sleep_for(ms(300)) ;
         
         //Turn off all port
         DataBuffer all_ports_OFF={relay_addr,0x0F,0x00,0x00,0x00,0x10,0x02,0x00,0x00} ;
@@ -51,11 +51,11 @@ int main()
         DataBuffer all_ports_OFF_crc = {relay_addr,0x0F,0x00,0x00,0x00,0x10,0x02,0x00,0x00,result_all_off.first,result_all_off.second} ;
         serial_port1.Write(all_ports_OFF_crc); 
         //print written vector
-        std::cout << "relay_port all off; writen: " << std::endl ;
+        std::cout << "Relay_port all off; writen: " << std::endl ;
         for (auto& value : all_ports_OFF_crc)
         {std::cout<< (int)value << " ";}
         std::cout << std::endl ;
-        sleep_for(std::chrono::milliseconds(300)) ;
+        sleep_for(ms(300)) ;
     }
 
     //Trun on and off each port   
@@ -70,11 +70,11 @@ int main()
         DataBuffer a = {relay_addr,0x05,0x00,x,0xFF,0x00,result_on.first,result_on.second} ;
         serial_port1.Write(a);
         //print written vector
-        std::cout << "relay_port"<< z <<" on; writen: " << std::endl ;
+        std::cout << "Relay_port"<< z <<" on; writen: " << std::endl ;
         for (auto& value : a)
         {std::cout<< (int)value << " ";}
         std::cout << std::endl ;
-        sleep_for(std::chrono::milliseconds(300)) ;
+        sleep_for(ms(300)) ;
         
         //Turn off a port
         DataBuffer off_bytes={relay_addr,0x05,0x00,x,0x00,0x00}; //cmd for port x turn off
@@ -84,11 +84,11 @@ int main()
         DataBuffer b = {relay_addr,0x05,0x00,x,0x00,0x00,result_off.first,result_off.second} ;
         serial_port1.Write(b);
         //print written vector
-        std::cout << "relay_port"<< z <<" off; writen: " << std::endl ;
+        std::cout << "Relay_port"<< z <<" off; writen: " << std::endl ;
         for (auto& value : a)
         {std::cout<< (int)value << " ";}
         std::cout << std::endl ;
-        sleep_for(std::chrono::milliseconds(300)) ;
+        sleep_for(ms(300)) ;
     }
 
     std::cout <<"Test Completed"<< std::endl ;
